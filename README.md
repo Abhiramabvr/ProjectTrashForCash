@@ -25,7 +25,7 @@ The Android Project Template is a comprehensive foundation for building Android 
 - Kotlin and Java development kits
 
 ### Setup Instructions
-1. Clone the repository using `git clone https://github.com/your-repo/your-project.git`
+1. Clone the repository using `git clone https://github.com/Abhiramabvr/ProjectTrashForCash.git`
 2. Open the project in Android Studio or compatible IDE
 3. Build the project using Gradle by running `./gradlew build` in the terminal
 4. Run the application on a physical device or emulator
@@ -66,7 +66,7 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 📬 Contact
-For any questions or concerns, please contact us at [your-email@example.com](mailto:your-email@example.com).
+For any questions or concerns, please contact us at [2338018077@webmail.uad.ac.id).
 
 ## 💖 Thanks Message
 A huge thank you to all contributors and users of this project! Your support and feedback are greatly appreciated.
